@@ -1,0 +1,11 @@
+The Agence.jar executable file is to be used if your MySql has root as its name
+username and root as the password, the Agence1.jar file is to be used
+if your MySql has no password.
+
+For database import you can write the following command
+in your command window when opened from the bin folder located
+in MySQL Server in the MySQL folder in your program folder:
+
+mysql -u username -ppassword dbname < dump_agenceF.sql
+
+Thank you and we hope you like the application :D .
